@@ -1,4 +1,4 @@
-# Qdrant Part 2 — DevOps Runbook Search
+# Qdrant — DevOps Runbook Search
 
 A local Streamlit application with real MiniLM embeddings and Qdrant vector search. No LLM or paid embedding API is required. The six short runbooks are synthetic learning examples, not production incident procedures.
 
